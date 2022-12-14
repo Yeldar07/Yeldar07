@@ -30,4 +30,4 @@ I am a beginner front-end developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I learning UX/UI and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://kz.linkedin.com/in/yeldar-keikiyev-23984b25a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://kz.linkedin.com/in/yeldar-keikiyev-23984b25a)
